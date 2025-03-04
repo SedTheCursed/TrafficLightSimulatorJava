@@ -1,0 +1,75 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Traffic Light Simulator with Java/*
+!/Traffic Light Simulator with Java/task/
+/Traffic Light Simulator with Java/task/*
+!/Traffic Light Simulator with Java/task/src
+
+# Project exclude paths
+/Topics/Custom threads/Message notifier as a thread/out/
+/Topics/Custom threads/Message notifier as a thread/out/production/classes/
+/Topics/Custom threads/Starting runnables/out/
+/Topics/Custom threads/Starting runnables/out/production/classes/
+/Topics/Custom threads/Statements about starting threads/out/
+/Topics/Custom threads/Statements about starting threads/out/production/classes/
+/Topics/Custom threads/The order of lines/out/
+/Topics/Custom threads/The order of lines/out/production/classes/
+/Topics/Custom threads/Theory/out/
+/Topics/Custom threads/Theory/out/production/classes/
+/Topics/Custom threads/Writing a thread for printing numbers/out/
+/Topics/Custom threads/Writing a thread for printing numbers/out/production/classes/
+/Topics/Introduction to generic programming/Correct the program/out/
+/Topics/Introduction to generic programming/Correct the program/out/production/classes/
+/Topics/Introduction to generic programming/Creating instances/out/
+/Topics/Introduction to generic programming/Creating instances/out/production/classes/
+/Topics/Introduction to generic programming/Declaring generic classes/out/
+/Topics/Introduction to generic programming/Declaring generic classes/out/production/classes/
+/Topics/Introduction to generic programming/Generic parameter values/out/
+/Topics/Introduction to generic programming/Generic parameter values/out/production/classes/
+/Topics/Introduction to generic programming/Theory/out/
+/Topics/Introduction to generic programming/Theory/out/production/classes/
+/Topics/Introduction to generic programming/Type arguments/out/
+/Topics/Introduction to generic programming/Type arguments/out/production/classes/
+/Topics/Lambda expressions/Higher-order functions/out/
+/Topics/Lambda expressions/Higher-order functions/out/production/classes/
+/Topics/Lambda expressions/Max of two integers/out/
+/Topics/Lambda expressions/Max of two integers/out/production/classes/
+/Topics/Lambda expressions/Parts of code/out/
+/Topics/Lambda expressions/Parts of code/out/production/classes/
+/Topics/Lambda expressions/Production of all numbers in the range/out/
+/Topics/Lambda expressions/Production of all numbers in the range/out/production/classes/
+/Topics/Lambda expressions/Statements/out/
+/Topics/Lambda expressions/Statements/out/production/classes/
+/Topics/Lambda expressions/Theory/out/
+/Topics/Lambda expressions/Theory/out/production/classes/
+/Topics/Thread management/Join/out/
+/Topics/Thread management/Join/out/production/classes/
+/Topics/Thread management/Summing with threads/out/
+/Topics/Thread management/Summing with threads/out/production/classes/
+/Topics/Thread management/Theory/out/
+/Topics/Thread management/Theory/out/production/classes/
+/Topics/Thread management/VeganPizza/out/
+/Topics/Thread management/VeganPizza/out/production/classes/
+/Topics/Wrapping classes. Boxing/Identify a possible exception/out/
+/Topics/Wrapping classes. Boxing/Identify a possible exception/out/production/classes/
+/Topics/Wrapping classes. Boxing/Identify possible exceptions/out/
+/Topics/Wrapping classes. Boxing/Identify possible exceptions/out/production/classes/
+/Topics/Wrapping classes. Boxing/Only true or false/out/
+/Topics/Wrapping classes. Boxing/Only true or false/out/production/classes/
+/Topics/Wrapping classes. Boxing/Result of the code/out/
+/Topics/Wrapping classes. Boxing/Result of the code/out/production/classes/
+/Topics/Wrapping classes. Boxing/Theory/out/
+/Topics/Wrapping classes. Boxing/Theory/out/production/classes/
+/Topics/Wrapping classes. Boxing/Transitioning between integer forms and displaying values/out/
+/Topics/Wrapping classes. Boxing/Transitioning between integer forms and displaying values/out/production/classes/
+/Topics/
